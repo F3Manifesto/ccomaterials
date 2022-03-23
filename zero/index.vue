@@ -15,6 +15,9 @@ Render File:
 
 //Cyber Lenses:
 Sketch Files: "https://digitalax.mypinata.cloud/ipfs/QmbiWJHgRGM7SbibgaZvpvzkKhRd1LudYEnsdM6JPMLDX5",
-ZPAC File: "https://digitalax.mypinata.cloud/ipfs/",
-Blender File: "https://digitalax.mypinata.cloud/ipfs/",
+Blender File: "https://digitalax.mypinata.cloud/ipfs/Qmdzf85M4Uwhbnrjm3eaEe5byyaC5Hx25fk9zCfTD1eZDr",
+Render File: 
+
+//Zero w/ Lenses:
+Blender File: "https://digitalax.mypinata.cloud/ipfs/QmXBNtWnZ8t2nTeb6mDc8rDaA88GGrvfwymD6evwC4KcPv",
 Render File: 
