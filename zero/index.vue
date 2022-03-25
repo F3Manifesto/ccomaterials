@@ -16,7 +16,7 @@ Diagram Sketch File: "https://digitalax.mypinata.cloud/ipfs/QmRXKL2cNEr3yEYH2oky
 
 //Cypherline Lenses:
 Sketch Files: "https://digitalax.mypinata.cloud/ipfs/QmbiWJHgRGM7SbibgaZvpvzkKhRd1LudYEnsdM6JPMLDX5",
-Blender File: "https://digitalax.mypinata.cloud/ipfs/Qmdzf85M4Uwhbnrjm3eaEe5byyaC5Hx25fk9zCfTD1eZDr",
+Blender File: "https://digitalax.mypinata.cloud/ipfs/QmfTeZNxFQ84ECUm34vXYRv8jYWHvcB6wCPeFVAJdUzdq4",
 Render File: 
 
 Diagram Sketch File: "https://digitalax.mypinata.cloud/ipfs/",
