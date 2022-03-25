@@ -9,7 +9,7 @@ Blur Render: "https://digitalax.mypinata.cloud/ipfs/QmSkPgHoHjoVTqGqWDSdzQiXeh5L
 //Cypherline Gloves:
 Sketch Files: "https://digitalax.mypinata.cloud/ipfs/QmVKLvefL8EyRpqgPVgDyd2ZVoZUBXKUKQsBj529WWbMi9",
 ZPAC File: "https://digitalax.mypinata.cloud/ipfs/QmSpHLkFkt1m2wbjwQugTYEmrnmzEaNtq5YUtFxZyfF1yG",
-Blender File: "https://digitalax.mypinata.cloud/ipfs/QmfTeZNxFQ84ECUm34vXYRv8jYWHvcB6wCPeFVAJdUzdq4",
+Blender File: "https://digitalax.mypinata.cloud/ipfs/QmbXme4WLeQXKoz21TQuM9YczJitYChBHsekpmHuGknHV6",
 Render Zip File: 
 
 Diagram Sketch File: "https://digitalax.mypinata.cloud/ipfs/QmRXKL2cNEr3yEYH2oky4ijCXq497tVuS2Ah5pr7M4PmqZ",
@@ -17,7 +17,7 @@ Diagram Render File: "https://digitalax.mypinata.cloud/ipfs/QmPVQ1Fqnc24FnpPcJFf
 
 //Cypherline Lenses:
 Sketch Files: "https://digitalax.mypinata.cloud/ipfs/QmbiWJHgRGM7SbibgaZvpvzkKhRd1LudYEnsdM6JPMLDX5",
-Blender File: "https://digitalax.mypinata.cloud/ipfs/",
+Blender File: "https://digitalax.mypinata.cloud/ipfs/QmNujBJJmLcXKK2DFoYNPn7jNzSaSsZHbKnXmNAx9MRLDN",
 Render Zip File: 
 
 Diagram Sketch File: "https://digitalax.mypinata.cloud/ipfs/QmbuwCPPiSdpYiohH3csjqFzpXjVALvRwYTK2Xq5w2ZzoC",
