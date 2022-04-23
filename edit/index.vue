@@ -14,7 +14,7 @@ Diagram Sketch File: "https://digitalax.mypinata.cloud/ipfs/QmVmDq9Q7Lm2dvC4mDzd
 Diagram Render File: "https://digitalax.mypinata.cloud/ipfs/QmXiwd71xgcf8DY9VppmgUzszJ9buFaTAPqa8qn7iHRCNA",
 
 //Edit w/ Fuzzy Hat:
-Blender File: "https://digitalax.mypinata.cloud/ipfs/",
+Blender File: "https://digitalax.mypinata.cloud/ipfs/QmU7Sg1pgmw2RDQPXaQozEFe5fqcjQE8pr944FgX7BZBtu",
 Render File: "https://digitalax.mypinata.cloud/ipfs/QmWcVEAeuoc2gpHBGGCfXSzCMFW32yT96MtPQRtQhxHHyr",
 
 //Earrings:
@@ -24,5 +24,5 @@ Diagram Sketch File: "https://digitalax.mypinata.cloud/ipfs/QmRCMs4UckFKGwFuxGLR
 Diagram Render File: "https://digitalax.mypinata.cloud/ipfs/QmcbG7HYiJqBrV6JyiM3EefWFb89Jwk4521czBoScBs1Np",
 
 //Edit w/ Earrings:
-Blender File: "https://digitalax.mypinata.cloud/ipfs/",
+Blender File: "https://digitalax.mypinata.cloud/ipfs/QmYMyHF9PbrtHfLAj4arhKSsnMpQoKP2D7rm3MQ62c5D14",
 Render File: "https://digitalax.mypinata.cloud/ipfs/QmNbQYJ16fduxXaJ1EQdcqDLaV7XMUcA1QwiKGuzpAHJo4",
