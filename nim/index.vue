@@ -5,5 +5,6 @@ Render File: "https://f3manifesto.mypinata.cloud/ipfs/QmNdJ9mFhjRNGcxrAEgguDZ5Je
 
 
 // Nim's Pose
-Blender File: "https://f3manifesto.mypinata.cloud/ipfs/",
+Blender File: "https://f3manifesto.mypinata.cloud/ipfs/QmcWDjSbU9k8KAPVLYQ4mwvi8LTa2vs55ESnj9FuTqHigg",
+Blender Video File: "https://f3manifesto.mypinata.cloud/ipfs/QmaHAK5KxDbjGwK9qzr9QmAzMDigGyPsGZWaNtAqLjK5rK",
 Render File: "https://f3manifesto.mypinata.cloud/ipfs/Qma2JEGrfivFAWPj9L2y6PsahXc4aTT3ogg6H4VR1M6GLu"
