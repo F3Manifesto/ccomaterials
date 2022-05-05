@@ -1,0 +1,21 @@
+// First Binding Set
+Sketch File Stickers:"https://f3manifesto.mypinata.cloud/ipfs/QmdQ21xRphPU7wPLQqp92hKvVXXJZRVCK4UFzCnFinGWMt",
+F3M Logo PSD File: "https://f3manifesto.mypinata.cloud/ipfs/QmfFvzMoy9mcm14AWQ2dNq5BLoRryZ2XPW8xkNkMV1GUqC",
+After Effects File Always Demand for More Thread: "https://f3manifesto.mypinata.cloud/QmThA7zoErpzN3FtuZi8PfTZTEKa2yoP2pGbs5uen2xm4F"
+Video Render Always Demand for More Thread: "https://f3manifesto.mypinata.cloud/ipfs/QmZJfa8fWAsMNDiZwJHvRmS7AGGoBS5sFLMxuCy2ZhCgM6",
+After Effects File What is Web3 Really?: "https://f3manifesto.mypinata.cloud/ipfs/QmNzWP96HSSW2ycjeQhfhTErEKv1dsKmM3WqGEqFjBnnDP",
+Video Render What is Web3 Really?: "https://f3manifesto.mypinata.cloud/ipfs/QmReaLyWrSiWHh8pLg7GTAzpU7Ho93AKdUr5i8fJZdHiyo",
+After Effects File My Pocket Empire: "https://f3manifesto.mypinata.cloud/ipfs/QmRSka3ZjehJrc4e2CViS4pcUHud7U2o9ndfSQCaQU4MsL",
+Video Render My Pocket Empire: "https://f3manifesto.mypinata.cloud/ipfs/QmXo4SJNPtVC4eUrM5PJdwuAfKfgt669jwJTGpFdVurkVm",
+After Effects Web3 CC0 Open Library: "https://f3manifesto.mypinata.cloud/ipfs/Qmb3zHKvjXH5Arh1VxcHEgeCZfAfjSmGDSTHP2QCncULGn",
+Video Render Web3 CC0 Open Library: "https://f3manifesto.mypinata.cloud/ipfs/QmQobgwFcdNP8wuw3X8Fon6EZfbndkVnVjiZRnhNidU97K",
+After Effects K$D: "https://f3manifesto.mypinata.cloud/ipfs/Qmd7epADVeJLD4Y7xMVqe4umnp5Zfi2jCDdFjBEdBkcKKr",
+Video Render K$D: "https://f3manifesto.mypinata.cloud/ipfs/QmeskambA77Ktg9dqDLBrDGmoX94Aeu22y72syNpK9v4Lg",
+After Effects F3M Logo:"https://f3manifesto.mypinata.cloud/ipfs/QmRTQWX8W3eAkWqTtFQb5zAZQ6VCyGc8h89HkaqX3qY9hH", 
+Video Render F3M Logo: "https://f3manifesto.mypinata.cloud/ipfs/QmW1AVYvfzU8CvwVgT7is4P7EZDNjko5REgKrtVXzXvqQA",
+After Effects Full Slap Kit: "https://f3manifesto.mypinata.cloud/ipfs/QmYnz8hJ3AxnjDfDCkug2NPVLYLnzqNARNwMv5aDjepqTX",
+Video Render Full Slap Kit: "https://f3manifesto.mypinata.cloud/ipfs/QmVc1tnxtva5opMkpegeyMAAzMgFyXemoPe53xXP4s4pwJ",
+After Effects Half Slap Kit One: "https://f3manifesto.mypinata.cloud/ipfs/QmQ4GjdALNrpEUnKRz9b4Ckwwfi9jBBqqWQp5PSKCFS1gb",
+Video Render Half Slap Kit One: "https://f3manifesto.mypinata.cloud/ipfs/QmeqaevZuz1Jmxt4DJKsPwDiRnkfWxLBMRgRttUa1w5FaW",
+After Effects Half Slap Kit Two: "https://f3manifesto.mypinata.cloud/ipfs/QmQ4GjdALNrpEUnKRz9b4Ckwwfi9jBBqqWQp5PSKCFS1gb",
+Video Render Half Slap Kit Two: "https://f3manifesto.mypinata.cloud/ipfs/QmeBNzRzqGn6xkbrUdfHDytETmFNksTqhxbBXp44qdbTMF"
