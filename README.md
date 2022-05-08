@@ -9,10 +9,12 @@ After downloading the IPFS hash, make sure to rename the file with the correct e
 
 Extension list includes:
 Image— .png
-Film— .mp4
+Film— .mp4 or .mov
 CLO— .zpac / .zprj
 Blender— .blend
 Sketch— .sketch
 Audio— .mp3
+After Effects— .aep
+Photoshop— .psd
 
 If you experience any issues downloading, importing or generally using the files, don't hesitate to reach out on discord or twitter.
