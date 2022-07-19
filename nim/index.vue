@@ -8,3 +8,6 @@ Render File: "https://f3manifesto.mypinata.cloud/ipfs/Qme9zic4g3kSRFteHuuHLPAoac
 Blender File: "https://f3manifesto.mypinata.cloud/ipfs/QmcWDjSbU9k8KAPVLYQ4mwvi8LTa2vs55ESnj9FuTqHigg",
 Blender Video File: "https://f3manifesto.mypinata.cloud/ipfs/QmaHAK5KxDbjGwK9qzr9QmAzMDigGyPsGZWaNtAqLjK5rK",
 Render File: "https://f3manifesto.mypinata.cloud/ipfs/Qma2JEGrfivFAWPj9L2y6PsahXc4aTT3ogg6H4VR1M6GLu"
+
+//Nim's Accessory Pack:
+Sketch File: "https://f3manifesto.mypinata.cloud/ipfs/Qmbic4api86JCT1qCNzaJc7ATBpnnFPPAKB3AKqxdF86gg"
